@@ -15,6 +15,11 @@ The same license of "Source Han Code JP" is applied as it, because it is distrib
 <https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web>
 <https://osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1>（Japanese）
 
+## Download
+
+If you only want the font data other than the [BirdFont](https://birdfont.org/) data for font editing, you can download it from the following page.
+<https://github.com/hibara/SHCode-JP-Zen-Haku/releases>
+
 ## About the full-width space
 
 I have been using a similar programming font "[CodeM](https://github.com/MasayukiFukada/CodeMFont)", but I decided to switch to "Source Han Code JP" because of easy to distinguish alphanumeric characters.
@@ -106,4 +111,4 @@ BF end -->
 
 Basically, there are no guarantees or support, but if you have any suggestions or requests, please add them to the Issues of this project, or contact us below. I will help you as possible.
 
-[Mituhiro Hibara]](mailto:m@hibara.org)
+[Mituhiro Hibara](mailto:m@hibara.org)
